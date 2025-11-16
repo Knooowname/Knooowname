@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, my name is Danko Alexander, and I'm a Front-end developer.
 
-<!--
-**Knooowname/Knooowname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop interfaces using React<br/>
+I use the FSD architecture<br/>
+I create apps with well-thought-out user interaction logic<br/>
+Working with Vite / Webpack / Next.js<br/>
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dankoooo.322@mail.ru) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+CSS3 (SASS, LESS)<br/>
+HTML5<br/>
+JAVASCRIPT<br/>
+TYPESCRIPT<br/>
+NEXTJS, REACT<br/>
+REACT QUERY, REACT HOOK FORM<br/>
+REDUX, REDUX TOOLKIT<br/>
+REACT ROUTER<br/>
+TAILWIND<br/>
+VITE, WEBPACK<br/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
