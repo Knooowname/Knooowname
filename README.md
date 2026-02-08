@@ -6,7 +6,7 @@ I create apps with well-thought-out user interaction logic<br/>
 Working with Vite / Webpack / Next.js<br/>
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dankoooo.322@mail.ru) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al_dl_0000@mail.ru) 
 
 # 💻 Tech Stack:
 CSS3 (SASS, LESS)<br/>
