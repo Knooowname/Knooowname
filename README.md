@@ -5,10 +5,10 @@ I use the FSD architecture<br/>
 I create apps with well-thought-out user interaction logic<br/>
 Working with Vite / Webpack / Next.js<br/>
 
-## 🌐 Socials:
+## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al_dl_0000@mail.ru) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 CSS3 (SASS, LESS)<br/>
 HTML5<br/>
 JAVASCRIPT<br/>
