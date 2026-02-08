@@ -1,4 +1,4 @@
-Hi, my name is Danko Alexander, and I'm a Front-end developer.
+Hi, i'm a Front-end developer.
 
 I develop interfaces using React<br/>
 I use the FSD architecture<br/>
